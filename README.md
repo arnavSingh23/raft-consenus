@@ -2,8 +2,6 @@
 
 A robust distributed systems project implementing the [Raft consensus algorithm](https://raft.github.io/) to ensure consistent replication across fault-prone servers.
 
-> “Good systems disappear into the background. Great ones never leave.”
-
 ---
 
 ## 🚀 Overview
